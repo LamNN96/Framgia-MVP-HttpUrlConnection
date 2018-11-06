@@ -1,0 +1,4 @@
+#Tue Nov 06 15:05:06 ICT 2018
+base.0=/home/lamnn/Framgia/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
