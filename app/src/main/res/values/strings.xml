@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TODO_MVP</string>
+  <string name="error_show_tasks">Load task fail. Check your connection!</string>
+</resources>
