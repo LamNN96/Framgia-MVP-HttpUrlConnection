@@ -1,1 +1,0 @@
-#Demo MVP and HttpUrlConnection
